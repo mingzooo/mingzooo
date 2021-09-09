@@ -4,9 +4,9 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CES student at HUFS
-- 🤔 My interest lies in front end web development.
-- 📫 Email me at [joozzoo0223@gmail.com](mailto:joozzoo0223@gmail.com).
+- 👨🏽‍💻 CES student at HUFS
+- 🤔 Web React💙
+- 📫 [joozzoo0223@gmail.com](mailto:joozzoo0223@gmail.com).
 
 
 **Languages and Tools:**  
