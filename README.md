@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Minjoo!</h3>
 
-**tech blog : [here!](https://minjoo-space.tistory.com/)**
+**blog : [here!](https://minjoo-space.tistory.com/)**
 
 **About Me!**
 
