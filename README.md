@@ -1,7 +1,4 @@
 <h3 title="hehehe"> Hey 👋, I'm Minjoo!</h3>
-
-**blog : [here!](https://minjoo-space.tistory.com/)**
-
 **About Me!**
 
 - 👨🏽‍💻 CES student at HUFS
